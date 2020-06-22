@@ -4,3 +4,4 @@ print (sqrt)
 sum = sum(list)
 print (sum)
 print ("POZDRAWIAM , Andrzej")
+# zapis na branch greetings - test
